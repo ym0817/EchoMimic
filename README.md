@@ -4,6 +4,9 @@
 export FFMPEG_PATH=/home/ymm/Works/EchoMimic/ffmpeg-4.4-amd64-static
 
 
+https://pan.baidu.com/s/1BNPJRUv6Dr23QyQ1EEM3Hw?pwd=z1lt
+提取码：z1lt
+
 
 <h1 align='center'>EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning</h1>
 
